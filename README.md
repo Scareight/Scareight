@@ -1,4 +1,6 @@
-## Hi Bro.. I´m Lucas sanchez, i´m a Junior Developer and economics science student⚜!
+## Hi Bro.. 
+I´m Lucas sanchez, 
+Junior Developer and economics science student⚜!
 <div align="center">
   <a href="https://github.com/Scareight">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Scareight&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
